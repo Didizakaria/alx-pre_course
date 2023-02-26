@@ -1,0 +1,3 @@
+git clone http://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@github.com/Didizakaria/alx-pre_course.git
+git fetch origin
+git merge origin/master
